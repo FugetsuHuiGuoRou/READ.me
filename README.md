@@ -28,4 +28,6 @@
 
 
 ⚡ **Curiosidade:**  
-- Amo histórias épicas e misteriosas, inspiração de jogos como *Dark Souls, Elden Ring* e séries como *Game of Thrones*.  
+- Amo histórias épicas e misteriosas, inspiração de jogos como *Dark Souls, Elden Ring* e séries como *Game of Thrones*.
+
+- 

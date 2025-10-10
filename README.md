@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme  
 
-<!--iii
-**FugetsuHuiGuoRou/FugetsuHuiGuoRou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Iniciante em **Game Maker** (desenvolvendo meu primeiro game)  
+🎭 Iniciante no **RPG Maker MV** (criando minha própria história em jogo)  
+💻 Explorando a área de **programação**, com interesse em **Python** e **FrontEnd**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Atualmente estou trabalhando em:**  
+- Meu primeiro jogo no RPG Maker MV  
+- Testes e protótipos no Game Maker  
+
+🌱 **Atualmente aprendendo:**  
+- Fundamentos de programação  
+- Python e FrontEnd (HTML, CSS, JavaScript)  
+
+🤔 **Estou procurando ajuda em:**  
+- Boas práticas de desenvolvimento de jogos  
+- Organização de projetos e Git/GitHub e Python
+
+💬 **Pergunte-me sobre:**  
+- Minhas ideias de jogos 🎮  
+- Experiências de aprendizado como iniciante  
+
+📫 **Como me encontrar:**  
+- [Seu LinkedIn]  
+- [Seu Twitter ou Email]  
+
+
+⚡ **Curiosidade:**  
+- Amo histórias épicas e misteriosas, inspiração de jogos como *Dark Souls, Elden Ring* e séries como *Game of Thrones*.  

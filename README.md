@@ -30,4 +30,8 @@
 ⚡ **Curiosidade:**  
 - Amo histórias épicas e misteriosas, inspiração de jogos como *Dark Souls, Elden Ring* e séries como *Game of Thrones*.
 
-- 
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FugetsuHuiGuoRou&label=Visualizações%20do%20perfil&color=blue&style=flat-square" alt="Contador de views"/>
+</div>
+

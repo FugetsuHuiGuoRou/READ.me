@@ -1,6 +1,12 @@
 👋 Hallo, ich heiße Guilherme.  
 💻 Desenvolvedor | 🚀 Apaixonado por tecnologia  
 
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 Sobre mim
@@ -13,4 +19,10 @@
 
 ## ⚙️ Tecnologias
 
-🎮 GameMaker Studio
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,docker,aws,git" />
+</p>
+
+<p align="center">
+  🎮 GameMaker Studio
+</p>

@@ -43,8 +43,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FugetsuHuiGuoRou&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FugetsuHuiGuoRouO&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=FugetsuHuiGuoRou&theme=tokyonight" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 📈 Resumo do perfil
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FugetsuHuiGuoRou&theme=tokyonight" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 👀 Visualizações do perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=FugetsuHuiGuoRou&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 🐍 Contribuições (animação)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/FugetsuHuiGuoRou/FugetsuHuiGuoRou/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

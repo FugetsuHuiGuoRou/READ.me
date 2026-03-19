@@ -1,4 +1,4 @@
-<h1 align="center">👋 Halo! Sou Guilherme</h1>
+<h1 align="center">👋 Hallo, ich heiße Guilherme.</h1>
 
 <p align="center">
   💻 Desenvolvedor | 🚀 Apaixonado por tecnologia
